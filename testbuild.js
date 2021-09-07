@@ -1,5 +1,5 @@
 const port = 3001;
-const path = '/BeerJS_Voronezh_2021';
+const path = '/RIF.Voronezh.2021';
 
 console.log('port', port);
 console.log('path', path);

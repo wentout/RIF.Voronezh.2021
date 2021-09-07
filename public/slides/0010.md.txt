@@ -38,7 +38,7 @@
 
 <br/>
 
-# [this talk with all examples](https://wentout.github.io/BeerJS_Voronezh_2021/)
+# [this talk with all examples](https://wentout.github.io/RIF.Voronezh.2021/)
 
 <br/>
 
