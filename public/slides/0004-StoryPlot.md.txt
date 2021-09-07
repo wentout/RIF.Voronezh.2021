@@ -1,0 +1,374 @@
+
+<h1 style={{fontSize:'15vh', color: 'orange'}}>... history ...</h1>
+
+<h1 className="borderline">-1</h1>
+
+
+-----
+
+<Box sx={{marginTop: '25vh'}}>
+<center>
+<h1 style={{fontSize: '11vh', color: 'cyan'}}>What is Inheritance?</h1>
+</center>
+</Box>
+
+-----
+
+<Box sx={{marginTop: '25vh'}}>
+<center>
+<h1 style={{fontSize: '11vh', color: 'cyan'}}>What is Inheritance?</h1>
+
+<h2 style={{fontSize: '8vh'}}>in programming languages</h2>
+
+</center>
+</Box>
+
+
+-----
+
+
+
+# inheritance is a thing itself
+
+
+<Box>
+<center>
+<a href="https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)">
+<img src="./content/img/Inheritance.png"  style={{width: '80vw'}} />
+</a>
+</center>
+</Box>
+
+
+-----
+
+# inheritance is always 
+
+-----
+
+# inheritance is always 
+
+<div style={{marginLeft: '5vw'}}>
+
+<Box sx={{marginTop: '1vh'}}>
+<h1 style={{fontSize: '7vh', color: 'orange'}}>lifecycle of our Data </h1>
+</Box>
+
+</div>
+
+-----
+
+# inheritance is always 
+
+<div style={{marginLeft: '5vw'}}>
+
+<Box sx={{marginTop: '1vh'}}>
+<h1 style={{fontSize: '7vh', color: 'orange'}}>lifecycle of our Data <span style={{marginLeft: '1vw', foneSize: '8vh', color: 'green'}}> & C . O . D . E .</span></h1>
+</Box>
+
+<br/>
+
+<Chart id='chartAbs' opts={{
+	chart : {
+		type : 'tree',
+		chartData : {
+			name : 'Entry',
+			stroke: 'white',
+			children : [{
+				name: 'Leaf 1',
+				stroke: 'white',
+				children : [{
+					name: 'Leaf 1 . 1',
+					stroke: 'white',
+					children : [{
+						name: 'Leaf 1 . 1',
+						stroke: 'white'
+					}]
+				}, {
+					name: 'Leaf 1 . 2',
+					stroke: 'white',
+					children : [{
+						name: 'Leaf 1 . 2',
+						stroke: 'white',
+					}]
+				}],
+			}, {
+				name: 'Leaf 2',
+				stroke: 'white',
+				children : [{
+					name: 'Leaf 2 . 1',
+					stroke: 'white',
+				}, {
+					name: 'Leaf 2 . 2',
+					stroke: 'white',
+				}, {
+					name: 'Leaf 2 . 3',
+					stroke: 'white',
+				}],
+			}],
+		},
+		print : app.print,
+		dy : 15,
+		dx : 95,
+		width : 450,
+		margin : {
+			top: 7, right: 40, bottom: 10, left: 40
+		}
+	}
+}} />
+
+</div>
+
+
+-----
+
+# inheritance is always 
+
+<div style={{marginLeft: '5vw'}}>
+
+<Box sx={{marginTop: '1vh'}}>
+<h1 style={{fontSize: '7vh', color: 'orange'}}>lifecycle of our Data <span style={{marginLeft: '1vw', foneSize: '8vh', color: 'green'}}> & C . O . D . E .</span> <span style={{marginLeft: '1vw', foneSize: '9vh', color: 'gray'}}>in Time</span></h1> 
+</Box>
+
+<br/>
+
+<div className="timelineText">
+
+
+# &mdash; <span style={{color:'gray'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'gray'}}>Line</span> &mdash; &mdash; <span style={{color:'gray'}}>&gt;</span>
+
+</div>
+
+
+<div className="timelineTextBlack">
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+
+</div>
+
+<Chart id='chartAbs' opts={{
+	chart : {
+		type : 'tree',
+		chartData : {
+			name : 'Entry',
+			stroke: 'white',
+			children : [{
+				name: 'Leaf 1',
+				stroke: 'white',
+				children : [{
+					name: 'Leaf 1 . 1',
+					stroke: 'white',
+					children : [{
+						name: 'Leaf 1 . 1',
+						stroke: 'white'
+					}]
+				}, {
+					name: 'Leaf 1 . 2',
+					stroke: 'white',
+					children : [{
+						name: 'Leaf 1 . 2',
+						stroke: 'white',
+					}]
+				}],
+			}, {
+				name: 'Leaf 2',
+				stroke: 'white',
+				children : [{
+					name: 'Leaf 2 . 1',
+					stroke: 'white',
+				}, {
+					name: 'Leaf 2 . 2',
+					stroke: 'white',
+				}, {
+					name: 'Leaf 2 . 3',
+					stroke: 'white',
+				}],
+			}],
+		},
+		print : app.print,
+		dy : 15,
+		dx : 95,
+		width : 450,
+		margin : {
+			top: 15, right: 40, bottom: 10, left: 40
+		}
+	}
+}} />
+
+</div>
+
+
+-----
+
+# and inheritance in JavaScript was like this forever
+
+<Box sx={{marginTop: '5vh'}}>
+<center>
+<a href="http://crockford.com/javascript/javascript.html">
+<img src="./content/img/CrockMisunderstood.png" style={{width: '75vw'}} />
+</a>
+</center>
+</Box>
+
+-----
+
+<Box sx={{marginTop: '25vh', marginLeft: '15vw', fontFamily: 'Courier', fontSize:'3vh'}}>
+	Let us remember, it was: December 4, 1995<br/>
+	<br/>
+	The More Developed languages had Class Based Ineritance<br/>
+	But prototypes are way more simplier pattern.<br/>
+	Just put something to the Constructors.prototype.<br/>
+	And that is it -- it would be inherited.<br/>
+	<br/>
+		-- What for?
+</Box>
+
+-----
+[{"snowflakes":true}]
+
+<Box sx={{marginTop: '25vh', marginLeft: '15vw', fontFamily: 'Courier', fontSize:'3vh'}}>
+	Let us remember, it was: December 4, 1995<br/>
+	<br/>
+	The More Developed languages had Class Based Ineritance<br/>
+	But prototypes are way more simplier pattern.<br/>
+	Just put something to the Constructors.prototype.<br/>
+	And that is it -- it would be inherited.<br/>
+	<br/>
+		-- What for? Snowflakes, for sure!<br/>
+</Box>
+
+
+
+-----
+
+# some thought on inheritance
+<center>
+<img src="./content/img/EichObjects.png" style={{top: '15vh', zIndex: 100, width: '85vw'}} />
+</center>
+
+
+-----
+
+# we can shift from
+
+<div style={{marginLeft: '5vw'}}>
+
+<Box sx={{marginTop: '1vh'}}>
+<h1 style={{fontSize: '7vh', color: 'orange'}}>Getting JavaScript Inheritance in Timeline</h1> 
+</Box>
+
+<br/>
+
+<div className="timelineText">
+
+
+# &mdash; <span style={{color:'gray'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'gray'}}>Line</span> &mdash; &mdash; <span style={{color:'gray'}}>&gt;</span>
+
+</div>
+
+
+<div className="timelineTextBlack">
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+# &mdash; <span style={{color:'black'}}>Time</span> &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; &mdash; <span style={{color:'gray'}}>|</span> &mdash; &mdash; <span style={{color:'black'}}>Line</span> &mdash; <span style={{color:'black'}}>&gt;</span>
+
+
+</div>
+
+<Chart id='chartAbs' opts={{
+	chart : {
+		type : 'tree',
+		chartData : {
+			name : 'Entry',
+			stroke: 'white',
+			children : [{
+				name: 'Objects',
+				stroke: 'white',
+				children : [{
+					name: 'Builtins',
+					stroke: 'white',
+					children : [{
+						name: 'Mix with Specific',
+						stroke: 'white'
+					}]
+				}, {
+					name: 'Specific',
+					stroke: 'white',
+					children : [{
+						name: ' . setPrototypeOf',
+						stroke: 'white',
+					}, {
+						name: 'new Proxy ( ...',
+						stroke: 'white',
+					}, {
+						name: 'Class + extends',
+						stroke: 'white',
+					}, {
+						name: 'Symbol . toPrimitive',
+						stroke: 'white',
+					}, {
+						name: 'async ~ await new',
+						stroke: 'white',
+					}]
+				}],
+			}, {
+				name: 'Primitives',
+				stroke: 'white',
+				children : [{
+					name: 'Number',
+					stroke: 'we',
+				}, {
+					name: 'Boolean',
+					stroke: 'white',
+				}, {
+					name: 'String',
+					stroke: 'white',
+				}],
+			}],
+		},
+		print : app.print,
+		dy : 15,
+		dx : 95,
+		width : 450,
+		margin : {
+			top: 15, right: 40, bottom: 10, left: 40
+		}
+	}
+}} />
+
+</div>
+
+
+

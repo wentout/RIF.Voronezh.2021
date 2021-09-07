@@ -1,0 +1,218 @@
+
+-----
+
+<h1 style={{fontSize:'15vh', color: 'orange'}}>The Next Step</h1>
+
+<h1 className="borderline">2</h1>
+
+-----
+
+
+
+-----
+
+# In 2021 for more than 5 years we have  ...
+
+```javascript className=codegiantshift
+
+[ Symbol . toPrimitive ]
+
+
+```
+
+-----
+
+# In 2021 for more than 5 years we have  ...
+
+```javascript className=codegiantshift
+
+[ Symbol . toPrimitive ]
+
+// and
+
+Proxy . as . an . example
+
+
+```
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);
+
+```
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+```
+
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+'123' → new String(123);
+
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+'123' → new String(123);    // → Proxy
+
+
+
+
+```
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+'123' → new String(123);    // → Proxy
+
+true → new Boolean(true);
+
+```
+
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+'123' → new String(123);    // → Proxy
+
+true → new Boolean(true);   // → Proxy
+
+```
+
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+'123' → new String(123);    // → Proxy
+
+true → new Boolean(true);   // → Proxy
+
+null, undefined, Symbol & BigInt → !Strict
+
+
+
+```
+
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+'123' → new String(123);    // → Proxy
+
+true → new Boolean(true);   // → Proxy
+
+null, undefined, Symbol & BigInt → !Strict
+
+Objects → Proxy(Objects)
+
+```
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+'123' → new String(123);    // → Proxy
+
+true → new Boolean(true);   // → Proxy
+
+null, undefined, Symbol & BigInt → !Strict
+
+Objects → Proxy(Objects)    // → Proxy
+
+```
+
+-----
+
+# How will it Work then ...
+
+```javascript className=codehugeshift
+
+123 → new Number(123);      // → Proxy
+
+'123' → new String(123);    // → Proxy
+
+true → new Boolean(true);   // → Proxy
+
+null, undefined, Symbol & BigInt → !Strict
+
+Objects → Proxy(Objects)    // → Proxy
+
+```
+
+
+<Button onClick={() => { fetch('http://localhost:3001/example/08_TheDealExample_1')}}>Run Me</Button>
+
+
+-----
+# and for an example of what we may have
+
+-----
+# and for an example of what we may have
+
+<Box sx={{marginTop: '25vh'}}>
+<center>
+<h1 style={{fontSize: '10vh', color: 'red'}}>Strict Types Example</h1>
+</center>
+</Box>
+
+
+-----
+# and for an example of what we may have
+
+<Box sx={{marginTop: '25vh'}}>
+<center>
+<h1 style={{fontSize: '10vh', color: 'red'}}>Strict Types Example</h1>
+<h1 style={{fontSize: '12vh', color: 'orange'}}>for Dynamic Runtime</h1>
+</center>
+</Box>
+
+
+
+<Button onClick={() => { fetch('http://localhost:3001/example/09_Reactions')}}>Run Me</Button>
+
+-----
