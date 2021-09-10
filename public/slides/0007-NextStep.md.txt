@@ -184,10 +184,6 @@ Objects → Proxy(Objects)    // → Proxy
 
 ```
 
-
-<Button onClick={() => { fetch('http://localhost:3001/example/08_TheDealExample_1')}}>Run Me</Button>
-
-
 -----
 # and for an example of what we may have
 
@@ -213,6 +209,7 @@ Objects → Proxy(Objects)    // → Proxy
 
 
 
-<Button onClick={() => { fetch('http://localhost:3001/example/09_Reactions')}}>Run Me</Button>
+<Button onClick={() => { fetch('http://localhost:3001/example/08_TheDealExample_1')}}>Run Me</Button>
+
 
 -----

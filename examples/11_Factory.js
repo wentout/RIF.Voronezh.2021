@@ -23,3 +23,5 @@ var next1 = new Constructor_1(2);
 debugger;
 var Constructor_2 = Factory(next1);
 var next2 = new Constructor_2(3);
+
+debugger;

@@ -57,6 +57,11 @@
 
 -----
 
+<Box sx={{textAlign: 'center'}}>
+<a href="https://wentout.github.io/RIF.Voronezh.2021/">
+<img src="./content/qrcode_wentout.github.io.png" style={{marginTop: '2vh', width: '49vw'}} />
+</a>
+</Box>
 
 -----
 

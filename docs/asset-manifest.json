@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/RIF.Voronezh.2021/static/css/main.15b18ae2.chunk.css",
-    "main.js": "/RIF.Voronezh.2021/static/js/main.aa8bd568.chunk.js",
-    "main.js.map": "/RIF.Voronezh.2021/static/js/main.aa8bd568.chunk.js.map",
+    "main.js": "/RIF.Voronezh.2021/static/js/main.d081ddfb.chunk.js",
+    "main.js.map": "/RIF.Voronezh.2021/static/js/main.d081ddfb.chunk.js.map",
     "runtime-main.js": "/RIF.Voronezh.2021/static/js/runtime-main.e4ad564d.js",
     "runtime-main.js.map": "/RIF.Voronezh.2021/static/js/runtime-main.e4ad564d.js.map",
-    "static/js/2.40ee5755.chunk.js": "/RIF.Voronezh.2021/static/js/2.40ee5755.chunk.js",
-    "static/js/2.40ee5755.chunk.js.map": "/RIF.Voronezh.2021/static/js/2.40ee5755.chunk.js.map",
+    "static/js/2.cd3635fb.chunk.js": "/RIF.Voronezh.2021/static/js/2.cd3635fb.chunk.js",
+    "static/js/2.cd3635fb.chunk.js.map": "/RIF.Voronezh.2021/static/js/2.cd3635fb.chunk.js.map",
     "index.html": "/RIF.Voronezh.2021/index.html",
     "static/css/main.15b18ae2.chunk.css.map": "/RIF.Voronezh.2021/static/css/main.15b18ae2.chunk.css.map",
-    "static/js/2.40ee5755.chunk.js.LICENSE.txt": "/RIF.Voronezh.2021/static/js/2.40ee5755.chunk.js.LICENSE.txt"
+    "static/js/2.cd3635fb.chunk.js.LICENSE.txt": "/RIF.Voronezh.2021/static/js/2.cd3635fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e4ad564d.js",
-    "static/js/2.40ee5755.chunk.js",
+    "static/js/2.cd3635fb.chunk.js",
     "static/css/main.15b18ae2.chunk.css",
-    "static/js/main.aa8bd568.chunk.js"
+    "static/js/main.d081ddfb.chunk.js"
   ]
 }
