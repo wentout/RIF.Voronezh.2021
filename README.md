@@ -1,4 +1,4 @@
-# slides for "Strict Types in JavaScript" talk
+# slides for "Topology of Dynamic Types in JavaScript | RIF Voronezh" talk
 
 Made on mythographica's [presentations framework](https://github.com/mythographica/slider)
 
